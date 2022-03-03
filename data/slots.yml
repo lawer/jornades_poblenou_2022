@@ -70,7 +70,13 @@
   duration: 60
   row:
     start: 24
-    end: 26
+    end: 27
+- key: sisena-tarda-normal
+  start: '20:30'
+  duration: 60
+  row:
+    start: 27
+    end: 29
 
 
 # - key: keynote-open

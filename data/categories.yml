@@ -12,16 +12,26 @@
   name: "\U0001F4D5 2n GAD"
 - key: 1r_afi_ass
   name: "\U0001F4D5 1r AFI Ass"
+- key: 1r_afi_1A
+  name: "\U0001F4D5 1r AFI 1A"
 - key: 1r_aco
-  name: "\U0001F4D5 1r ACO"
+  name: "\U0001F4D5 1r ACO T"
 - key: 2n_aco
-  name: "\U0001F4D5 2n ACO"
+  name: "\U0001F4D5 2n ACO T"
+- key: 1r_aco_m
+  name: "\U0001F4D5 1r ACO M"
+- key: 2n_aco_m
+  name: "\U0001F4D5 2n ACO M"
 - key: 1r_coi
   name: "\U0001F4D5 1r COI"
 - key: 2n_gviec
   name: "\U0001F4D5 2n GVIEC"
 - key: 1r_afi_t
   name: "\U0001F4D5 1r AFI T"
+- key: 1r_mip
+  name: "\U0001F4D5 2n MKT"
+- key: 1r_mipd
+  name: "\U0001F4D5 2n MKT Digital"
 - key: 2n_mip
   name: "\U0001F4D5 2n MKT"
 - key: 2n_mipd

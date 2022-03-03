@@ -7,6 +7,8 @@ level: Tots
 tags:
   - tecnica
   - presencial
+  - 1r_aco_m
+  - 2n_aco_m
 speakers:
   - albert_majos
 presentation: null
