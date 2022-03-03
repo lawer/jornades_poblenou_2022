@@ -1,0 +1,40 @@
+- day: '2022-03-07'
+  start: '08:00'
+  rooms:
+    - room: sala_actes
+      slots:
+        - slot: primera-normal
+          talk: res
+        - slot: segona-normal
+          talk: res
+        - slot: tercera-normal
+          talk: res
+        - slot: quarta-normal
+          talk: ACC10
+        - slot: cinquena-normal
+          talk: res
+        - slot: sisena-normal
+          talk: res
+
+        - slot: primera-tarda-normal
+          talk: laiapp
+        - slot: segona-tarda-normal
+          talk: res
+        - slot: tercera-tarda-normal
+          talk: res
+        - slot: quarta-tarda-normal
+          talk: res
+        - slot: cinquena-tarda-normal
+          talk: taller_empre
+
+
+    - room: altres
+      slots:
+        - slot: tercera-normal
+          talk: telefonica
+        - slot: segona-normal
+          talk: finexit
+        - slot: quarta-normal
+          talk: finexit_afi_ass
+        - slot: segona-tarda-normal
+          talk: finexit_1r_afi_t
