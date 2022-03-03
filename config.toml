@@ -1,0 +1,50 @@
+baseURL = 'https://jornades-poblenou-2022.netlify.app/'
+languageCode = 'es-ca'
+theme = "devfest-theme-hugo"
+defaultContentLanguage = "ca"
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-XXXXXXXX-X"
+title = "Jornades d'emprenodoria i tècniques 2022"
+date = "07/03/2022"
+description = "."
+images = ["/images/social-share.jpg"]
+email = "contact@devfesttoulouse.fr"
+keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
+copyright = "We :heart:️ chocolatines"
+cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+subscriptionUrl = "http://eepurl.com/dps1j5"
+appleTouchIcon = "/apple-touch-icon.png"
+favicon32 = "/favicon-32x32.png"
+favicon16 = "/favicon-16x16.png"
+manifest = "/manifest.json"
+safariPinnedTab = "/safari-pinned-tab.svg"
+themeColor = "#587db7" #"#673ab6"
+googleWebmasterKey = "googleXXXXXXX" # https://support.google.com/webmasters/answer/9008080#html_verification
+
+[params.logos]
+    jumbo = "/images/logo_fons_blanc.png"
+    header = "/images/logo-institut-poblenou.png"
+    footer = "/images/logo-institut-poblenou.png"
+
+[menu]
+[[menu.main]]
+    identifier = "calendari"
+    name = "CAlendari"
+    url = "https://docs.google.com/spreadsheets/d/1SPhm4ICwgw8fOhb5ynRloVegF9G_F37NLB00Jr6S8nU/edit?usp=sharing"
+    weight = 200
+    external = true
+
+[languages]
+[languages.ca]
+    weight = 1
+    languageName = "ca"
+
+
+
+[taxonomies]
+  tag = "tags"
+
