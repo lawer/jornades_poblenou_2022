@@ -18,7 +18,7 @@ menu:
 
 
 
-{{% home-info what="Sessions:20,Dies:5,Grups:33,Torns:2" class="primary" %}}
+{{% home-info what="Sessions:27,Dies:5,Grups:33,Torns:2" class="primary" %}}
 ## IX Jornades d'emprenedoria i tècniques
 
 Des de ja fa 9 anys organitzem unes jornades d’emprenedoria i tècniques on professionals emprenedors i experts de matèries relacionades amb els nostres estudis venen a fer xerrades per als nostres alumnes.

@@ -64,3 +64,8 @@
 - key: 2n_asix
   name: "\U0001F4D5 2n ASIX"
 
+- key: 2ns_mati
+  name: "\U0001F4D5 Segons de matí"
+- key: 2ns_tarda
+  name: "\U0001F4D5 Segons de tarda"
+

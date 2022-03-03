@@ -6,8 +6,9 @@ format: conference
 level: Tots
 tags:
   - presencial
+  - 2ns_mati
 presentation: null
 draft: false
 ---
 
-Tots els grups de 2n.
+Tots els grups de 2n matí.
