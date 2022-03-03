@@ -7,6 +7,11 @@ level: Tots
 tags:
   - tecnica
   - presencial
+  - 1r_gviec
+  - 1r_smix_m
+  - 1r_gad
+  - 1r_coi
+  - 2n_coi
 speakers:
   - ezequiel_passeron
 presentation: null

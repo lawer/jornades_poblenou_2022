@@ -8,6 +8,8 @@
   name: "\U0001F4BB Online"
 - key: presencial
   name: "\U0001F3EB Presencial"
+- key: 1r_gad
+  name: "\U0001F4D5 1r GAD"
 - key: 2n_gad
   name: "\U0001F4D5 2n GAD"
 - key: 1r_afi_ass
@@ -24,6 +26,10 @@
   name: "\U0001F4D5 2n ACO M"
 - key: 1r_coi
   name: "\U0001F4D5 1r COI"
+- key: 2n_coi
+  name: "\U0001F4D5 2n COI"
+- key: 1r_gviec
+  name: "\U0001F4D5 1r GVIEC"
 - key: 2n_gviec
   name: "\U0001F4D5 2n GVIEC"
 - key: 1r_afi_t
@@ -36,3 +42,6 @@
   name: "\U0001F4D5 2n MKT"
 - key: 2n_mipd
   name: "\U0001F4D5 2n MKT Digital"
+- key: 1r_smix_m
+  name: "\U0001F4D5 1r SMIX M"
+
