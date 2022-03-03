@@ -7,6 +7,10 @@ level: Tots
 tags:
   - emprenedoria
   - online
+  - 1r_smix_t
+  - 2n_smix_t
+  - 1r_dam
+  - 2n_dam
 speakers:
   - andreu_muñoz
 presentation: null

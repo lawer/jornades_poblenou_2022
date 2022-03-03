@@ -7,6 +7,12 @@ level: Tots
 tags:
   - emprenedoria
   - online
+  - 1r_afi_t
+  - 2n_afi_ass
+  - 2n_mip
+  - 2n_mipd
+  - 1r_aco
+  - 2n_aco
 speakers:
   - may_hernandez
 presentation: null

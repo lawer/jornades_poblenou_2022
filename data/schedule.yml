@@ -56,22 +56,66 @@
           talk: res
         - slot: sisena-50m
           talk: res
-        - slot: sisena-normal
+        - slot: setena-50m
           talk: res
 
-        - slot: primera-tarda-normal
-          talk: prog_video
         - slot: primera-tarda-50m
-          talk: res
+          talk: prog_video
         - slot: segona-tarda-50m
           talk: res
         - slot: tercera-tarda-50m
-          talk: gestio_infra
+          talk: res
         - slot: quarta-tarda-50m
-          talk: ex_estudiants
+          talk: gestio_infra
         - slot: cinquena-tarda-50m
+          talk: ex_estudiants
+        - slot: sisena-tarda-50m
           talk: clean_data
 
+- day: '2022-03-09'
+  start: '08:00'
+  rooms:
+    - room: sala_actes
+      slots:
+        - slot: primera-50m
+          talk: res
+        - slot: segona-50m
+          talk: res
+        - slot: tercera-50m
+          talk: res
+        - slot: quarta-50m
+          talk: autoocupacio
+        - slot: cinquena-50m
+          talk: autoocupacio
+        - slot: sisena-50m
+          talk: concurs
+        - slot: setena-50m
+          talk: concurs
+
+        - slot: primera-tarda-50m
+          talk: concurs
+        - slot: segona-tarda-50m
+          talk: concurs
+        - slot: tercera-tarda-50m
+          talk: res
+        - slot: quarta-tarda-50m
+          talk: que_busquen
+        - slot: cinquena-tarda-50m
+          talk: mindfulnes
+
+    - room: altres
+      slots:
+        - slot: segona-tarda-50m
+          talk: tendencies
+        - slot: tercera-tarda-50m
+          talk: tendencies
+        - slot: quarta-tarda-50m
+          talk: perfils
+
+    - room: altres2
+      slots:
+        - slot: segona-tarda-50m
+          talk: recomanador
 
 - day: '2022-03-10'
   start: '08:00'

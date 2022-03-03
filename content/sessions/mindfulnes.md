@@ -7,6 +7,10 @@ level: Tots
 tags:
   - tecnica
   - presencial
+  - 1r_mip
+  - 1r_mipd
+  - 2n_mip
+  - 2n_mipd
 speakers:
   - ismael_clavero
 presentation: null

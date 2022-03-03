@@ -7,6 +7,9 @@ level: Tots
 tags:
   - emprenedoria
   - presencial
+  - 1r_gviec
+  - 2n_smix_m
+  - 2n_afi_m
 speakers:
   - adria_de_lucas
 presentation: null

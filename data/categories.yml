@@ -14,8 +14,12 @@
   name: "\U0001F4D5 2n GAD"
 - key: 1r_afi_ass
   name: "\U0001F4D5 1r AFI Ass"
+- key: 2n_afi_ass
+  name: "\U0001F4D5 2n AFI Ass"
 - key: 1r_afi_1A
   name: "\U0001F4D5 1r AFI 1A"
+- key: 2n_afi_m
+  name: "\U0001F4D5 2n AFI M"
 - key: 1r_aco
   name: "\U0001F4D5 1r ACO T"
 - key: 2n_aco
@@ -44,8 +48,16 @@
   name: "\U0001F4D5 2n MKT Digital"
 - key: 1r_smix_m
   name: "\U0001F4D5 1r SMIX M"
+- key: 2n_smix_m
+  name: "\U0001F4D5 2n SMIX M"
 - key: 1r_smix_t
   name: "\U0001F4D5 1r SMIX T"
+- key: 2n_smix_t
+  name: "\U0001F4D5 2n SMIX T"
+- key: 1r_dam
+  name: "\U0001F4D5 1r DAM"
+- key: 2n_dam
+  name: "\U0001F4D5 2n DAM"
 
 - key: 1r_asix
   name: "\U0001F4D5 1r ASIX"

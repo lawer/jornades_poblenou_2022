@@ -7,6 +7,8 @@ level: Tots
 tags:
   - tecnica
   - presencial
+  - 1r_dam
+  - 2n_dam
 speakers:
   - adrien_anceau
 presentation: null
