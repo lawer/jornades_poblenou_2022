@@ -9,8 +9,6 @@ tags:
   - presencial
   - 1r_mip
   - 1r_mipd
-  - 2n_mip
-  - 2n_mipd
 
 speakers:
   - tom_mc_clean
