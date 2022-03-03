@@ -30,13 +30,13 @@ googleWebmasterKey = "googleXXXXXXX" # https://support.google.com/webmasters/ans
     header = "/images/logo-institut-poblenou.png"
     footer = "/images/logo-institut-poblenou.png"
 
-[menu]
-[[menu.main]]
-    identifier = "calendari"
-    name = "CAlendari"
-    url = "https://docs.google.com/spreadsheets/d/1SPhm4ICwgw8fOhb5ynRloVegF9G_F37NLB00Jr6S8nU/edit?usp=sharing"
-    weight = 200
-    external = true
+# [menu]
+# [[menu.main]]
+#     identifier = "calendari"
+#     name = "CAlendari"
+#     url = "https://docs.google.com/spreadsheets/d/1SPhm4ICwgw8fOhb5ynRloVegF9G_F37NLB00Jr6S8nU/edit?usp=sharing"
+#     weight = 200
+#     external = true
 
 [languages]
 [languages.ca]

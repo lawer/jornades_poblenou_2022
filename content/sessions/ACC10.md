@@ -7,6 +7,7 @@ level: Tots
 tags:
   - emprenedoria
   - presencial
+  - 1r_coi
 speakers:
   - marta_de_miguel
 presentation: null

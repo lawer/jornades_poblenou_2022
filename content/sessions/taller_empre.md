@@ -7,6 +7,8 @@ level: Tots
 tags:
   - emprenedoria
   - presencial
+  - 2n_mip
+  - 2n_mipd 
 speakers:
   - oriol_llop
 presentation: null

@@ -7,6 +7,8 @@ level: Tots
 tags:
   - emprenedoria
   - presencial
+  - 1r_aco
+  - 2n_aco
 speakers:
   - carolina_gaona
 presentation: null

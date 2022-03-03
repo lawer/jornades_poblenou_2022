@@ -7,12 +7,14 @@ level: Tots
 tags:
   - tecnica
   - online
+  - 2n_gad
 speakers:
   - adrien_anceau
 presentation: null
 draft: false
 ---
 
-És un taller. Es tracta d'un scape room virtual on els participants han de fer servir els seus coneixements financers per evitar l'enfonsament de l'economia nacional.
+Taller. Es tracta d'un scape room virtual on els participants han de fer servir els seus coneixements financers per evitar l'enfonsament de l'economia nacional.
 
+Aula 73
 
