@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1r_gad on Jornades d&#39;emprenodoria i tècniques 2022</title>
+    <link>https://jornades-poblenou-2022.netlify.app/tags/1r_gad/</link>
+    <description>Recent content in 1r_gad on Jornades d&#39;emprenodoria i tècniques 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ca</language>
+    <copyright>We :heart:️ chocolatines</copyright><atom:link href="https://jornades-poblenou-2022.netlify.app/tags/1r_gad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faro digital, consum i presència responsable en el món digital</title>
+      <link>https://jornades-poblenou-2022.netlify.app/sessions/faro_digital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jornades-poblenou-2022.netlify.app/sessions/faro_digital/</guid>
+      <description>Xerrada/taller relacionat amb la responsabilitat a les xarxes (seguretat, perills, etc)</description>
+    </item>
+    
+  </channel>
+</rss>
