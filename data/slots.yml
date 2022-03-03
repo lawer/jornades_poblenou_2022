@@ -79,6 +79,93 @@
     end: 29
 
 
+- key: primera-50m
+  start: '08:00'
+  duration: 50
+  row:
+    start: 1
+    end: 3
+- key: segona-50m
+  start: '08:50'
+  duration: 50
+  row:
+    start: 3
+    end: 5
+- key: tercera-50m
+  start: '09:40'
+  duration: 50
+  row:
+    start: 5
+    end: 7
+- key: pati-mati-50m
+  start: '10:30'
+  duration: 30
+  row:
+    start: 7
+    end: 8
+- key: quarta-50m
+  start: '11:00'
+  duration: 50
+  row:
+    start: 8
+    end: 10
+- key: cinquena-50m
+  start: '11:50'
+  duration: 50
+  row:
+    start: 10
+    end: 12
+- key: sisena-50m
+  start: '12:40'
+  duration: 50
+  row:
+    start: 12
+    end: 14
+
+- key: primera-tarda-50m
+  start: '16:00'
+  duration: 50
+  row:
+    start: 17
+    end: 19
+- key: segona-tarda-50m
+  start: '16:50'
+  duration: 50
+  row:
+    start: 19
+    end: 21
+- key: tercera-tarda-50m
+  start: '17:40'
+  duration: 50
+  row:
+    start: 21
+    end: 23
+- key: pati-tarda-50m
+  start: '18:30'
+  duration: 30
+  row:
+    start: 23
+    end: 24
+- key: quarta-tarda-50m
+  start: '19:00'
+  duration: 50
+  row:
+    start: 24
+    end: 26
+- key: cinquena-tarda-50m
+  start: '19:50'
+  duration: 50
+  row:
+    start: 26
+    end: 28
+- key: sisena-tarda-50m
+  start: '20:40'
+  duration: 50
+  row:
+    start: 28
+    end: 30
+
+
 # - key: keynote-open
 #   start: '09:00'
 #   duration: 40

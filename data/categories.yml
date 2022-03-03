@@ -44,4 +44,11 @@
   name: "\U0001F4D5 2n MKT Digital"
 - key: 1r_smix_m
   name: "\U0001F4D5 1r SMIX M"
+- key: 1r_smix_t
+  name: "\U0001F4D5 1r SMIX T"
+
+- key: 1r_asix
+  name: "\U0001F4D5 1r ASIX"
+- key: 2n_asix
+  name: "\U0001F4D5 2n ASIX"
 

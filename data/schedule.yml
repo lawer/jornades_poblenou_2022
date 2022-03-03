@@ -38,6 +38,41 @@
         - slot: segona-tarda-normal
           talk: finexit_1r_afi_t
 
+
+- day: '2022-03-08'
+  start: '08:00'
+  rooms:
+    - room: sala_actes
+      slots:
+        - slot: primera-50m
+          talk: res
+        - slot: segona-50m
+          talk: res
+        - slot: tercera-50m
+          talk: ex_estudiants
+        - slot: quarta-50m
+          talk: emprender_salud
+        - slot: cinquena-50m
+          talk: res
+        - slot: sisena-50m
+          talk: res
+        - slot: sisena-normal
+          talk: res
+
+        - slot: primera-tarda-normal
+          talk: prog_video
+        - slot: primera-tarda-50m
+          talk: res
+        - slot: segona-tarda-50m
+          talk: res
+        - slot: tercera-tarda-50m
+          talk: gestio_infra
+        - slot: quarta-tarda-50m
+          talk: ex_estudiants
+        - slot: cinquena-tarda-50m
+          talk: clean_data
+
+
 - day: '2022-03-10'
   start: '08:00'
   rooms:
@@ -77,6 +112,7 @@
       slots:
         - slot: segona-normal
           talk: finexit_1r_afi_1A
+
 
 - day: '2022-03-11'
   start: '08:00'

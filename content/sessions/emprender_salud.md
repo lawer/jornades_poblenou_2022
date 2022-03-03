@@ -7,6 +7,7 @@ level: Tots
 tags:
   - emprenedoria
   - presencial
+  - 1r_asix
 speakers:
   - dr_soria
 presentation: null

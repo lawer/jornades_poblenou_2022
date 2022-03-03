@@ -7,6 +7,7 @@ level: Tots
 tags:
   - tecnica
   - presencial
+  - 1r_smix_t
 speakers:
   - victor_carbonell
 presentation: null

@@ -7,6 +7,7 @@ level: Tots
 tags:
   - tecnica
   - presencial
+  - 2n_asix
 speakers:
   - adria_muntanya
 presentation: null
