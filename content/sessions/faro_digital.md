@@ -19,3 +19,5 @@ draft: false
 ---
 
 Xerrada/taller relacionat amb la responsabilitat a les xarxes (seguretat, perills, etc)
+
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLScDwbH5B63oRAxSEAQt4lsSHZWVJdY3qUY5kzz24EnA8zDSbw/viewform?usp=sf_link)

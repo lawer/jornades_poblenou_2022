@@ -14,4 +14,4 @@ presentation: null
 draft: false
 ---
 
--
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLSfA4lslp71CAG1jLPCkUBQqQDA5nkiGeL4NV-iwzuiv53Lb0A/viewform?usp=sf_link)

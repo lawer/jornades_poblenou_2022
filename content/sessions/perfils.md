@@ -19,4 +19,4 @@ draft: false
 
 Vivència personal dels anys que ha estat vivint a Londres i com això l'ha ajudat a millorar personal i laboralment.
 
-
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLSfVZ7g83HUz6dhenMhuEbZ-Cv16O-lQtMTubhCtD-pvqF5ZPA/viewform?usp=sf_link)

@@ -15,3 +15,5 @@ draft: false
 ---
 
 Introducció a la Programació de Videojocs.
+
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLSeIkq__DRJiTfIX-Jqoq0jqWW1cWDqQ7aVl4BmVLrzwqg2cKA/viewform?usp=sf_link)

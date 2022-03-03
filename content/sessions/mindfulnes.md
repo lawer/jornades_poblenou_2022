@@ -18,3 +18,5 @@ draft: false
 ---
 
 Taller per aprendre a relaxar-se de cara a exàmens, futurs treballs, i a nivell vital gral... 
+
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLSfyj51PhRfij9Th_ZdpcmAul4DmCUZiWVjx64AWLmBhrG8IpA/viewform?usp=sf_link)

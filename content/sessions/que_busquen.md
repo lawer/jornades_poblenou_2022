@@ -21,4 +21,4 @@ draft: false
 
 Que l'alumne sigui conscient dels "trucs" que hi ha per a trobar feina abans que altra gent. La importància d'un CV potent per a destacar.
 
-
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLSfVZ7g83HUz6dhenMhuEbZ-Cv16O-lQtMTubhCtD-pvqF5ZPA/viewform?usp=sf_link)

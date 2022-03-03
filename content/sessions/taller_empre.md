@@ -16,3 +16,5 @@ draft: false
 ---
 
 Oriol Llop realitzará un taller relacionat amb la solució de diferents situacions i experiencies. 
+
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLScDlcVnftSP2sy201uTZFwy6MP_KKS5IqhnFaEzWzqw76f2kw/viewform?usp=sf_link)

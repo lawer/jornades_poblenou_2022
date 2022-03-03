@@ -17,3 +17,5 @@ draft: false
 ---
 
 En Tom ha fet de director d'art i dissenyador a l'agència DDB Berlín i Barcelona, ha fet anuncis per Volkswagen i Seat i ens explicarà les experiències de a l'agència. 
+
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLSfPcUC3bhMKronadtGn6RD5XOpNh7BBQkrzmI6qo0tCigXWNQ/viewform?usp=sf_link)

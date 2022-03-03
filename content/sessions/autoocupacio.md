@@ -18,4 +18,4 @@ draft: false
 
 Exposició del que fa la Fundació per tal d'afavorir l'emprenedoria i les possibilitats que tenen els alumnes
 
-
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLSedCGNcNPtOsMOSDZxZHMzI9uX4UDKdx7IEu9BU6ALl_HTh6Q/viewform?usp=sf_link)

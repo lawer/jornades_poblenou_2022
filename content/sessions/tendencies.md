@@ -15,3 +15,5 @@ draft: false
 ---
 
 Xerrada enfocada a descobrir els nous paradigmes tecnològics: blockchain, computació quàntica, etc.
+
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLSdo6J1BVKLrvDF7wRi7g6nuBaBHONr9R3C_1WUlbW_fUNyUHw/viewform?usp=sf_link)

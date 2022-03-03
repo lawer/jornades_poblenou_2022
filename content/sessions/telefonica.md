@@ -13,3 +13,5 @@ draft: false
 ---
 
 Aula 63
+
+[Enquesta de satisfacció](https://docs.google.com/forms/d/1gqgdxtT-1jjNG583cXh_cq8Jka3cKo2LqWy6g7WNRj0/edit?usp=sharing)

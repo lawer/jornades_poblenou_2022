@@ -14,3 +14,5 @@ draft: false
 ---
 
 Javier Quinto explicarà com netejar dades d'un dataset.
+
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLSddtWEA-SWXsyC8VdtCMCHA5ln-uxZJo12a7tiUZwmj5BeRJg/viewform?usp=sf_link)

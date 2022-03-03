@@ -18,3 +18,4 @@ Taller. Es tracta d'un scape room virtual on els participants han de fer servir 
 
 Aula 11
 
+[Enquesta de satisfacció](https://docs.google.com/forms/d/1LP3y9ArhSx5OnkFXYVoAoZcaGXdCJc6gAhQQY8ixSwU/edit?usp=sharing)

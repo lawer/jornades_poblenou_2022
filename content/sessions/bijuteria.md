@@ -15,3 +15,5 @@ draft: false
 ---
 
 La Laia explicarà la seva vivència personal intentant crear joies i ho mesclarà amb un petit tastet de creació d'una petita joia amb material plàstic.
+
+[Enquesta de satisfacció](https://docs.google.com/forms/d/e/1FAIpQLSc718tAZlcVatBjZ33w7PH_81fhe4gawSlRV1HMxerU452dhA/viewform?usp=sf_link)
