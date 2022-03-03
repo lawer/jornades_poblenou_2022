@@ -7,6 +7,7 @@ level: Tots
 tags:
   - emprenedoria
   - presencial
+  - 1r_aco_m
 speakers:
   - laia_arimany
 presentation: null

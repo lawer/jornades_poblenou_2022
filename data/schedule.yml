@@ -77,3 +77,35 @@
       slots:
         - slot: segona-normal
           talk: finexit_1r_afi_1A
+
+- day: '2022-03-11'
+  start: '08:00'
+  rooms:
+    - room: sala_actes
+      slots:
+        - slot: primera-normal
+          talk: res
+        - slot: segona-normal
+          talk: res
+        - slot: tercera-normal
+          talk: bijuteria
+        - slot: quarta-normal
+          talk: res
+        - slot: cinquena-normal
+          talk: faro_digital
+        - slot: sisena-normal
+          talk: res
+
+        - slot: primera-tarda-normal
+          talk: res
+        - slot: segona-tarda-normal
+          talk: res
+        - slot: tercera-tarda-normal
+          talk: res
+        - slot: quarta-tarda-normal
+          talk: res
+        - slot: cinquena-tarda-normal
+          talk: res
+        - slot: sisena-tarda-normal
+          talk: res
+
