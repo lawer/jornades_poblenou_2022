@@ -60,7 +60,7 @@
           talk: res
 
         - slot: primera-tarda-50m
-          talk: prog_video
+          talk: res
         - slot: segona-tarda-50m
           talk: res
         - slot: tercera-tarda-50m
@@ -152,6 +152,9 @@
       slots:
         - slot: segona-normal
           talk: ecoveritas
+        - slot: primera-tarda-normal
+          talk: intro_info
+
     - room: altres2
       slots:
         - slot: segona-normal
