@@ -38,10 +38,13 @@
   name: "\U0001F4D5 2n GVIEC"
 - key: 1r_afi_t
   name: "\U0001F4D5 1r AFI T"
+- key: 2n_afi_t
+  name: "\U0001F4D5 2n AFI T"
+
 - key: 1r_mip
-  name: "\U0001F4D5 2n MKT"
+  name: "\U0001F4D5 1r MKT"
 - key: 1r_mipd
-  name: "\U0001F4D5 2n MKT Digital"
+  name: "\U0001F4D5 1r MKT Digital"
 - key: 2n_mip
   name: "\U0001F4D5 2n MKT"
 - key: 2n_mipd

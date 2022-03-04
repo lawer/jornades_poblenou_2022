@@ -7,6 +7,10 @@ level: Tots
 tags:
   - emprenedoria
   - presencial
+  - 1r_mip
+  - 1r_mipd
+  - 2n_mip
+  - 2n_mipd
 speakers:
   - hakima_castro
 presentation: null

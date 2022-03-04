@@ -7,6 +7,8 @@ level: Tots
 tags:
   - tecnica
   - online
+  - 1r_dam
+  - 2n_dam
 speakers:
   - javi_quinto
 presentation: null

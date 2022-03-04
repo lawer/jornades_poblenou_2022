@@ -7,7 +7,7 @@ level: Tots
 tags:
   - emprenedoria
   - online
-  - 1r_afi_t
+  - 2n_afi_t
   - 2n_afi_ass
   - 2n_mip
   - 2n_mipd
