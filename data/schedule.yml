@@ -99,7 +99,7 @@
         - slot: tercera-tarda-50m
           talk: res
         - slot: quarta-tarda-50m
-          talk: que_busquen
+          talk: res
         - slot: cinquena-tarda-50m
           talk: mindfulnes
 
@@ -116,6 +116,8 @@
       slots:
         - slot: segona-tarda-50m
           talk: recomanador
+        - slot: quarta-tarda-50m
+          talk: que_busquen
 
 - day: '2022-03-10'
   start: '08:00'
