@@ -49,7 +49,7 @@
         - slot: segona-50m
           talk: res
         - slot: tercera-50m
-          talk: ex_estudiants
+          talk: res #ex_estudiants
         - slot: quarta-50m
           talk: res #emprender_salud
         - slot: cinquena-50m
@@ -68,9 +68,9 @@
         - slot: quarta-tarda-50m
           talk: gestio_infra
         - slot: cinquena-tarda-50m
-          talk: ex_estudiants_tarda
+          talk: clean_data #ex_estudiants_tarda
         - slot: sisena-tarda-50m
-          talk: clean_data
+          talk: res
 
 - day: '2022-03-09'
   start: '08:00'
