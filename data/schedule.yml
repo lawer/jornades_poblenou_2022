@@ -66,7 +66,7 @@
         - slot: tercera-tarda-50m
           talk: res
         - slot: quarta-tarda-50m
-          talk: gestio_infra
+          talk: res #gestio_infra
         - slot: cinquena-tarda-50m
           talk: clean_data #ex_estudiants_tarda
         - slot: sisena-tarda-50m
