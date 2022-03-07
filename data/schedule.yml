@@ -51,7 +51,7 @@
         - slot: tercera-50m
           talk: ex_estudiants
         - slot: quarta-50m
-          talk: emprender_salud
+          talk: res #emprender_salud
         - slot: cinquena-50m
           talk: res
         - slot: sisena-50m
@@ -136,11 +136,11 @@
           talk: res
 
         - slot: primera-tarda-normal
-          talk: com_formar
+          talk: res
         - slot: segona-tarda-normal
           talk: com_formar
         - slot: tercera-tarda-normal
-          talk: res
+          talk: com_formar
         - slot: quarta-tarda-normal
           talk: res
         - slot: cinquena-tarda-normal
